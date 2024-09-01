@@ -21,7 +21,7 @@ int main() {
         else {
             printf("%d ('%c')\r\n", c, c);
         }
-        if (c == 'Q') break;
+        if (c == 'q') break;
     }
     return 0;
 }
